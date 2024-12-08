@@ -111,7 +111,6 @@ Handles payment processing for orders.
 ## Contributors  
 
 1. 22UG1-0281 | Sahan Wijesinghe
-2. 22UG1-0323 | Kasun Chamika
 3. 22ug1-0844 | Thilanka Rajitha
 4. 22ug1-0801 | Thinal jayamanna 
 ---
